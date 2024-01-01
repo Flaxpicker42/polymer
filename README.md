@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/Polymer/polymer.svg?branch=master)](https://travis-ci.org/Polymer/polymer)
 [![Published on npm](https://img.shields.io/npm/v/@polymer/polymer.svg)](https://www.npmjs.com/package/@polymer/polymer)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@polymer/polymer)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlaxpicker42%2Fpolymer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlaxpicker42%2Fpolymer?ref=badge_shield)
 
 > ℹ️ Note: This is the current stable version of the Polymer library.  At Google I/O 2018 we announced a new Web Component base class, [`LitElement`](https://github.com/lit/lit), as a successor to the `PolymerElement` base class in this library.
 >
@@ -141,3 +142,6 @@ Beyond GitHub, we try to have a variety of different lines of communication avai
 # License
 
 The Polymer library uses a BSD-like license that is available [here](./LICENSE.txt)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlaxpicker42%2Fpolymer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlaxpicker42%2Fpolymer?ref=badge_large)
